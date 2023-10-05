@@ -24,7 +24,7 @@ int	main(int ac, char *ag[])
 	srand(time(NULL));
 	for (i = 0; i < 5; i++)
 		arr[i] = rand() % 100;
-	fd = open("sum", O_WRONLY);
+	fd = open("15_fifo", O_WRONLY);
 	if (fd == -1)
 		return (1);
 	for (i = 0; i < 5; i++)
