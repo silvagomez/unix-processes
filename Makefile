@@ -145,6 +145,51 @@ all		:
 		@echo -e
 		@./_unix
 
+27		:
+		cc -Wall -Wextra -Werror 27_unix.c -o _unix 
+		@echo -e
+		@./_unix
+
+28		:
+		cc -Wall -Wextra -Werror 28_unix.c -o _unix 
+		@echo -e
+		@./_unix
+
+29		:
+		cc -Wall -Wextra -Werror 29_unix.c -o _unix 
+		@echo -e
+		@./_unix
+
+30		:
+		cc -Wall -Wextra -Werror 30_unix.c -o _unix 
+		@echo -e
+		@./_unix
+
+31		:
+		cc -Wall -Wextra -Werror 31_unix.c -o _unix 
+		@echo -e
+		@./_unix
+
+32		:
+		cc 32_unix.c -o _unix 
+		@echo -e
+		@./_unix
+
+33		:
+		cc 33_unix.c -o _unix 
+		@echo -e
+		@./_unix
+
+34		:
+		cc 34_unix.c -o _unix 
+		@echo -e
+		@./_unix
+
+35		:
+		cc 35_unix.c -o _unix 
+		@echo -e
+		@./_unix
+
 fclean	:
 		rm *unix
 
