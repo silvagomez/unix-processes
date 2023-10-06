@@ -45,5 +45,6 @@ int	main(int ac, char *av[])
 			printf("Wrong!");
 		wait(NULL);
 	}
+	return (0);
 }
 
