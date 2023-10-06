@@ -115,6 +115,25 @@ all		:
 		@echo -e
 		@./_unix
 
+21		:
+		cc -Wall -Wextra -Werror 21_unix.c -o _unix 
+		@echo -e
+		@./_unix
+
+22		:
+		cc -Wall -Wextra -Werror 22_unix.c -o _unix 
+		@echo -e
+		@./_unix
+
+23		:
+		cc -Wall -Wextra -Werror 23_unix.c -o _unix 
+		@echo -e
+		@./_unix
+
+24		:
+		cc -Wall -Wextra -Werror 24_unix.c -o _unix 
+		@echo -e
+		@./_unix
 
 fclean	:
 		rm *unix
