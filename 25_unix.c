@@ -6,7 +6,7 @@
 #include <fcntl.h>
 
 /*
- * Getting exit status code in C.
+ * Redirecting standard output in C.
  *
  * Permission has to be in octal, thats why 0777.
  *
