@@ -190,6 +190,11 @@ all		:
 		@echo -e
 		@./_unix
 
+36		:
+		cc -Wall -Wextra -Werror 36_unix.c -o _unix 
+		@echo -e
+		@./_unix
+
 fclean	:
 		rm *unix
 

@@ -22,6 +22,8 @@ int	main(int ac, char *av[])
 {
 	int pid;
 
+	(void)ac;
+	(void)av;
 	pid = fork();
 	if (pid == -1)
 		return 1;
