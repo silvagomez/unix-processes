@@ -15,12 +15,12 @@
 12. Practical use case for fork() and pipe() in C.
 13. Introduction to FIFOs in C.
 14. Introduction to FIFOs in C.
-15. -
-	* How to use FIFO files to communicae between process in C.
-	*  How to use FIFO files to communicae between process in C.
-16. -
-	* How to use FIFO files to communicae between process in C.
-	* How to use FIFO files to communicae between process in C.
+15. 
+- How to use FIFO files to communicae between process in C.
+- How to use FIFO files to communicae between process in C.
+16. 
+- How to use FIFO files to communicae between process in C.
+- How to use FIFO files to communicae between process in C.
 17. Two way communication bbetween processes using pipes in C.
 18. Two way communication bbetween processes using pipes in C.
 19. Two way communication bbetween processes using pipes in C.
